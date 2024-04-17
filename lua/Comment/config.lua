@@ -92,8 +92,8 @@ local Config = {
             block = 'gbc',
         },
         opleader = {
-            line = 'gc',
-            block = 'gb',
+            line = '<C-/>',
+            block = ' /',
         },
         extra = {
             above = 'gcO',
