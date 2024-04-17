@@ -88,8 +88,8 @@ local Config = {
             extra = true,
         },
         toggler = {
-            line = 'gcc',
-            block = 'gbc',
+            line = '<C-/>',
+            block = ' /',
         },
         opleader = {
             line = '<C-/>',
